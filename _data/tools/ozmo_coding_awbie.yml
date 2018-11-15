@@ -1,0 +1,13 @@
+category: Apps
+name: Osmo Coding Awbie
+description: Weg einer Spielfigur (in der App) mit Karton-Befehlsblöcken programmieren
+advantages: im wahrsten Sinne des Wortes "handgreiflich"
+languages:
+    - visuell/Blöcke
+ages:
+  - 1. Zyklus
+link:
+  url: https://itunes.apple.com/ch/app/osmo-coding-awbie/id1067117430?mt=8
+  desc: Osmo Coding Awbie im Appstore
+materials:
+image_name: osmo_coding_awbie.jpg

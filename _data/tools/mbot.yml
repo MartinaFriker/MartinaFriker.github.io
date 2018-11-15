@@ -1,0 +1,18 @@
+category: Roboter
+name: mBot
+description: Roboter zum Zusammenbauen mit 2 Motoren, Abstandssensor, Lichtsensor, Taste, 2 Led's, Infrarot, Buzzer
+advantages: Kompatibel mit Scratch und Appinventor
+languages:
+  - C++
+  - Python
+  - visuell/Blöcke
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+link:
+  url: https://www.makeblock.com/steam-kits/mbot
+  desc: Makeblock/steam-kits/mbot
+materials:
+  - url: https://www.phbern.ch/ideenset-robotik-2/ideenset-robotik-2/unterrichtsmaterial/mbot.html
+    desc: Videoanleitungen/ Unterrichtsmaterial Sammlung PH Bern
+image_name: mbot.jpg

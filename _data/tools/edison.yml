@@ -1,0 +1,18 @@
+category: Roboter
+name: Edison
+description: Roboter Infrarotsensoren vorne, Helligkeitssensor unten, Lautsprecher, Mikrophon, 3 Tasten, steuerbar mit einer Standart-Fernbedienung (TV/DVD)
+advantages: günstig, kompatibel mit Legosteinen
+languages:
+  - Python
+  - visuell/Blöcke
+ages:
+  - 1. Zyklus
+  - 2. Zyklus
+  - 3. Zyklus
+link:
+  url: https://meetedison.com/
+  desc: meetedison.com
+materials:
+  - url: https://www.phbern.ch/ideenset-robotik-2/ideenset-robotik-2/unterrichtsmaterial/edison.html
+    desc: Material PH Bern
+image_name: edison.jpg

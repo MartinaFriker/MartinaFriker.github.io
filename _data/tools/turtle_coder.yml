@@ -1,0 +1,19 @@
+
+category: online
+name: Turtle Coder
+description: Den Weg einer Figur (Schildkröte) so programmieren dass ihre Spur ein bestimmtes Muster ergibt
+advantages: 
+languages:
+  - Lua
+  - visuell/Blöcke
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+link:
+  url: https://www.code-your-life.org/turtlecoder/
+  desc: code-your-live/turtlecoder
+materials:
+  - url: https://www.code-your-life.org/Praxis/Logo_Turtle/1211_Handbuch_Logo.htm
+    desc: Handbuch von code-your-live
+
+image_name: turtle_coder.jpg

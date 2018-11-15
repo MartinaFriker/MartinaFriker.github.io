@@ -1,6 +1,6 @@
 category: Platinen
 name: MakeyMakey
-description: Platine zur Ansteuerung einzelner Keyboardtasten eines Computers durch Schliessen eines Stromkreislaufs
+description: Platine zur Ansteuerung einzelner Keyboardtasten eines Computers durch Schliessen eines Stromkreislaufs, viele Möglichkeiten in Kombination mit Scratch
 advantages: einfach und eindrucksvoll
 languages:
   - keine
@@ -13,7 +13,7 @@ link:
 materials:
   - url: http://ilearnit.ch/download/MakeyMakeyProjektideen.pdf
     desc: Projektideen PH Schwyz
-  - url: https://makeymakey.com/lessons/lesson-plans.pdf
+  - url: https://cdn.shopify.com/s/files/1/0162/8612/files/lesson-plans.pdf?16481577170705338427
     desc: Lektionspläne von makeymakey.com (englisch)
   - url: https://tueftelakademie.de/oer-materialien/
     desc: Unterrichtsbeispiele von tueftelakademie.de

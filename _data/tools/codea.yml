@@ -11,4 +11,7 @@ link:
   url: https://itunes.apple.com/ch/app/codea/id439571171?mt=8
   desc: Codea im Appstore
 materials:
+  - url: https://bitbucket.org/TwoLivesLeft/core/wiki/Home
+    desc: Tutorial-Sammlung von TwoLivesLeft (Empfehlung:Codea for Kids) - englisch
+
 image_name: codea.jpg

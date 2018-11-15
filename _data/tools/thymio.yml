@@ -1,7 +1,7 @@
 category: Roboter
 name: Thymio
-description: Schweizer Roboter mit 39 Led's, Lage-/ Beschleunigungssensor, 9 Abstandssensoren, Temperatursensor, Lautsprecher, Mikrophon, 5 Tasten, Stifthalterung, Lego-kompatibel
-advantages: Viele Möglichkeiten
+description: Schweizer Roboter mit 39 Led's, Lage-/ Beschleunigungssensor, 9 Abstandssensoren, Temperatursensor, Lautsprecher, Mikrophon, 5 Tasten, Stifthalterung
+advantages: Viele Möglichkeiten, kompatibel mit Legosteinen
 languages:
   - Aseba
   - visuell/Blöcke

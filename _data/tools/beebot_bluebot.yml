@@ -1,6 +1,6 @@
 category: Roboter
 name: Beebot, Bluebot
-description: Roboter in Käferform, mit Richtungstasten (Vorwärts, Rückwärts, Links-/ Rechtsdrehung) "programmierbar" (speichert Tastenfolge und fährt dann diesen Weg)
+description: Roboter in Käferform, mit Richtungstasten (Vorwärts, Rückwärts, Links-/ Rechtsdrehung) "programmierbar" (speichert Tastenfolge und fährt dann diesen Weg), Bluebot auch mit App 
 advantages: ideal für Anfänger/ Kindergarten
 languages:
   - keine
@@ -18,4 +18,6 @@ materials:
     desc: Bluebot einfache Aufgaben von M.Friker
   - url: assets/materials/beebot_bluebot/Bluebot_Quadrate_Stadtplan.pdf
     desc: Vorlage Quadrate für Stadtplan von M.Friker
+  - url: https://itunes.apple.com/ch/app/blue-bot/id957753068?mt=8
+    desc: Bluebot App in Itunes
 image_name: beebot_bluebot.jpg

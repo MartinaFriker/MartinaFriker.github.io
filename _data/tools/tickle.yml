@@ -1,7 +1,7 @@
 category: Apps
 name: Tickle
 description: Programmieren mit Blöcken,kurze Einführung auf englisch, einige Beispiele
-advantages: Kompatibel mit Microbit, Applewatch, Philips Hue, Lego, Sphero und anderen Robotern
+advantages: Kompatibel mit Microbit, Applewatch, Philips Hue, Lego, Sphero, Dash&Dot und anderen Robotern
 languages:
   - visuell/Blöcke
 ages:

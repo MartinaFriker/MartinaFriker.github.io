@@ -17,6 +17,11 @@
     padding-left: 25px;
 }
 
+.thanks {
+    font-style: italic;
+    padding-top: 30px;
+}
+
 .links_title {
     padding-left: 20px;
 }
@@ -75,48 +80,57 @@
 
 .roboline img {
     padding-left: 30px;
+    padding-top: 20px;
 }
 
 .roboline img:nth-of-type(1) {
     width: 14%;
     transform: rotate(5deg);
 }
+
 .roboline img:nth-of-type(2) {
     width: 16%;
     transform: rotate(-6deg);
 }
+
 .roboline img:nth-of-type(3) {
     width: 12%;
     transform: rotate(2deg);
 }
+
 .roboline img:nth-of-type(4) {
     width: 14%;
     transform: rotate(-4deg);
 }
+
 .roboline img:nth-of-type(5) {
     width: 13%;
     transform: rotate(3deg);
 }
 
-
 @media only screen and (max-width: 768px) {
+    .roboline {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 20px;
+    }
     .roboline img:nth-of-type(1) {
-        width: 32%;
+        width: 28%;
+        transform: rotate(-3deg);
     }
     .roboline img:nth-of-type(2) {
-        width: 35%;
-        transform: rotate(-6deg);
+        width: 26%;
+        transform: rotate(-7deg);
     }
     .roboline img:nth-of-type(3) {
-      width: 33%;
+        width: 30%;
     }
     .roboline img:nth-of-type(4) {
-       display: none;
-    }
-    .roboline img::nth-of-type(5) {
         display: none;
     }
-    
+    .roboline img:nth-of-type(5) {
+        display: none;
+    }
     td.topic {
         position: absolute;
     }
@@ -126,5 +140,9 @@
     }
     .filter_lines td {
         padding-left: 15px;
+    }
+    .links_title {
+        padding-left: 0px;
+        padding-top: 30px;
     }
 }
