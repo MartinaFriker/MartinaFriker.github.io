@@ -7,6 +7,23 @@
     padding-bottom: 5px;
 }
 
+.footer {
+    background-color: #008080;
+    color: white;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+.footerlinks {
+    color: #99e6e6;
+}
+
+.footertitle {
+    padding-bottom: 20px;
+}
+
 .icon {
     padding-top: 20px;
     display: inline-block;
@@ -15,6 +32,7 @@
 .text {
     padding-top: 25px;
     padding-left: 25px;
+    padding-bottom: 25px;
 }
 
 .thanks {
@@ -81,6 +99,7 @@
 .roboline img {
     padding-left: 30px;
     padding-top: 20px;
+    padding-bottom: 15px;
 }
 
 .roboline img:nth-of-type(1) {
