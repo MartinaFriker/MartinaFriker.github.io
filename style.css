@@ -83,6 +83,10 @@
     width: 100%;
 }
 
+.row>div {
+    transition: width 0.2s ease-in-out;
+}
+
 .tool_title {
     text-align: center;
 }
