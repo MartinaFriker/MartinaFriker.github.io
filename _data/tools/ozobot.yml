@@ -11,12 +11,16 @@ link:
   url: https://ozobot.com/
   desc: ozobot.com
 materials:
-  - url: https://ozobot.com/stem-education
-    desc: Materialien/ Unterrichtseinheiten von ozobot.com (englisch)
+  - url: https://portal.ozobot.com/lessons
+    desc: Unterrichtseinheiten von ozobot.com (englisch)
   - url: http://ilearnit.ch/download/OzobotProjektideen.pdf
     desc: Projektideen PH Schwyz
   - url: assets/materials/ozobot/EtikettenOzobotAvery_L4736.pdf
     desc: Ozobot Vorlage Farbcode Ettiketten (Avery L4736) von M.Friker
   - url: assets/materials/ozobot/ListeOzobotFarbcodes_mitPictos.pdf
     desc: Liste Ozobot Farbcodes mit Piktogrammen von M.Friker
+  - url: https://files.ozobot.com/stem-education/color-codes-tips.pdf
+    desc: Farbcode-Tipps von Ozobot
+  - url: https://files.ozobot.com/stem-education/ozobot-color-codes.pdf
+    desc: Farbcode-Uebersicht von Ozobot
 image_name: ozobot.jpeg

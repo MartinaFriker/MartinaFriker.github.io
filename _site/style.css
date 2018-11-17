@@ -5,6 +5,7 @@
     padding-right: 25px;
     padding-top: 25px;
     padding-bottom: 5px;
+    font-size: 80%;
 }
 
 .footer {
@@ -14,6 +15,7 @@
     padding-right: 35px;
     padding-top: 35px;
     padding-bottom: 35px;
+    font-size: 80%;
 }
 
 .footerlinks {
@@ -33,6 +35,7 @@
     padding-top: 25px;
     padding-left: 25px;
     padding-bottom: 25px;
+    font-size: 90%;
 }
 
 .thanks {
@@ -67,6 +70,7 @@
     padding-left: 15px;
     padding-right: 15px;
     background-color: #00b3b3;
+    font-size: 90%;
 }
 
 .tools {
@@ -81,10 +85,6 @@
     margin-top: 25px;
     margin-bottom: 25px;
     width: 100%;
-}
-
-.row>div {
-    transition: width 0.2s ease-in-out;
 }
 
 .tool_title {
