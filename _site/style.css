@@ -83,14 +83,14 @@
     page-break-inside: avoid;
 }
 
-
-/* @media only screen and (max-width: 992px) {
+@media only screen and (max-width: 992px) {
     .columns {
         column-count: 3;
     }
 }
 
-@media only screen and (max-width: 768px) {
+
+/* @media only screen and (max-width: 768px) {
     .columns {
         column-count: 2;
     }
