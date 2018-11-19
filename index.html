@@ -71,9 +71,9 @@
         <div class="container-fluid content">
 
             <table id="choice"> </table>
-            <div class="row">
+            <div class="columns">
                 {% for tool_hash in site.data.tools %} {% assign tool = tool_hash[1] %}
-                <div class="col-xs-12 col-md-6 col-lg-4 col-xl-4">
+                <div class="toolbox">
                     <div class="tools" data-category="{{tool.category}}" data-ages='["{{tool.ages | join: '","'}}"]' data-languages='["{{tool.languages | join: '","'}}"]'>
                         <h3 class="tool_title"> {{tool.name}} </h3>
 

@@ -26,34 +26,34 @@ jQuery(document).ready(function() {
 
     console.log(categories_hash);
 
-    var measure = function() {
-        var height = 0;
-        $Tools.css("height", "auto");
-        if ($(window).width() <= 768) {
-            // if the window is smaller than 600px
-            // do NOT set a fixed height for
-            // tool divs since we only have a single column.
-            return;
-        }
-        window.setTimeout(function() {
-            $Tools.each(function() {
-                    var $tool = $(this);
-                    if ($tool.parent().is(":hidden")) {
-                        return this;
-                    }
-                    //-> jquery visible ?
-                    height = Math.max(height, Math.round($tool.height()));
+    // var measure = function() {
+    //     var height = 0;
+    //     $Tools.css("height", "auto");
+    //     if ($(window).width() <= 768) {
+    //         // if the window is smaller than 600px
+    //         // do NOT set a fixed height for
+    //         // tool divs since we only have a single column.
+    //         return;
+    //     }
+    //     window.setTimeout(function() {
+    //         $Tools.each(function() {
+    //                 var $tool = $(this);
+    //                 if ($tool.parent().is(":hidden")) {
+    //                     return this;
+    //                 }
+    //                 //-> jquery visible ?
+    //                 height = Math.max(height, Math.round($tool.height()));
 
-                    console.log(height);
-                    return this;
+    //                 console.log(height);
+    //                 return this;
 
-                })
-                .height(height);
-        }, 0);
-    };
+    //             })
+    //             .height(height);
+    //     }, 0);
+    // };
 
-    measure();
-    $(window).on('resize', measure);
+    // measure();
+    // $(window).on('resize', measure);
 
 
     var $choice = jQuery("#choice");
@@ -99,7 +99,7 @@ jQuery(document).ready(function() {
             $this.parent().show();
 
         });
-        measure();
+        // measure();
     };
 
 
