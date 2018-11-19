@@ -83,7 +83,8 @@
     page-break-inside: avoid;
 }
 
-@media only screen and (max-width: 992px) {
+
+/* @media only screen and (max-width: 992px) {
     .columns {
         column-count: 3;
     }
@@ -99,7 +100,7 @@
     .columns {
         column-count: 1;
     }
-}
+} */
 
 .tools {
     background-color: white;
