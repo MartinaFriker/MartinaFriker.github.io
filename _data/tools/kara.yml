@@ -13,7 +13,7 @@ ages:
   - Sekundarstufe 2
 link:
   url: "http://www.swisseduc.ch/informatik/karatojava/kara/"
-  desc: "www.swisseduc.ch/informatik/karatojava"
+  desc: "www.swisseduc.ch/.../kara"
 materials:
   - url: http://www.educ.ethz.ch/unterrichtsmaterialien/informatik/kara.html
     desc: Leitprogramm Kara von J. Zimmermann, ETH Zürich
