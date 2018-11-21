@@ -14,6 +14,8 @@ link:
   url: http://www.microbit.org/de/
   desc: www.microbit.org
 materials:
+  - url: https://www.schularena.com/ict/informatik/make-it/micro-bit
+    desc: Aufgaben von der Schularena
   - url: assets/materials/microbit/Einfache_Microbit_Projekte_M_Friker.docx
     desc: Einfache Microbit-Projekte von M.Friker
 image_name: microbit.png
