@@ -1,0 +1,15 @@
+category: online
+name: Tigerjython online
+description: Einfache Entwicklungsumgebung zum programmieren in Python
+advantages: kompatibel mit Oxocard und Mindstorms (geplant)
+languages:
+  - Python
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: http://www.python-online.ch/
+  desc: www.python-online.ch
+materials:
+image_name: tigerjython_online.gif
