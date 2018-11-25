@@ -12,4 +12,6 @@ link:
   url: https://sonic-pi.net/
   desc: sonic-pi.net
 materials:
+  - url: https://www.schularena.com/ict/informatik/programmieren/sonic-pi
+    desc: Materialsammlung auf Schularena
 image_name: sonic_pi.png
