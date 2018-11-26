@@ -1,0 +1,16 @@
+category: online
+name: Java Hamster
+description: Hamster in Java programmieren so dass er bestimmte Aufgaben löst (Körner suchen, fressen,...)
+advantages: gute Einführung in Java
+languages:
+  - Java
+ages:
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: http://www.java-hamster-modell.de/
+  desc: www.java-hamster-modell.de
+materials:
+  - url: http://www.java-hamster-modell.de/allerlei.html
+    desc: Materialsammlung von Java Hamster (scrollen zu "Unterrichtsmaterialien")
+image_name: hamster_simulator.jpg
