@@ -1,7 +1,7 @@
-category: online
+category: download
 name: Java Hamster
 description: Hamster in Java programmieren so dass er bestimmte Aufgaben löst (Körner suchen, fressen,...)
-advantages: gute Einführung in Java
+advantages: gute Einführung in Java, z. Bsp. als Weiterführung von Scratch (Java Hamster in Scratch unter "Links" - "Scratch")
 languages:
   - Java
 ages:
