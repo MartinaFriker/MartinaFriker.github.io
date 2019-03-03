@@ -1,6 +1,6 @@
 category: Platinen
 name: Oxocard
-description: Schweizer Einplatinen-Computer mit Ledfeld, Lage-/ Beschleunigungssensor, 6 Tasten
+description: Schweizer Einplatinen-Computer mit Ledfeld, Lage-/ Beschleunigungssensor, 6 Tasten, optionaler Erweiterungsport zum anschliessen von weiteren Sensoren und Aktoren 
 advantages: 8x8 farbige Led's, Wlan, nachhaltig entwickelt
 languages:
   - Python

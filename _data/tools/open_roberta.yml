@@ -2,7 +2,7 @@
 category: online
 name: Open Roberta Lab
 description: Programmieren mit Blöcken, Robotersimulation (Open Roberta Sim)
-advantages: kompatibel mit Lego Mindstorm, Calliope, Microbit, Bob3, Arduino,
+advantages: kompatibel mit Lego Mindstorm, Lego WeDo, Calliope, Microbit, Bob3, Arduino, senseBox, mBot
 languages:
   - visuell/Blöcke
 ages:

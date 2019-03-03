@@ -1,7 +1,7 @@
 category: Roboter
 name: mBot
 description: Roboter zum Zusammenbauen mit 2 Motoren, Abstandssensor, Lichtsensor, Taste, 2 Led's, Infrarot, Buzzer
-advantages: Kompatibel mit Scratch und Appinventor
+advantages: Kompatibel mit Scratch, Open Roberta und Appinventor
 languages:
   - C++
   - Python
