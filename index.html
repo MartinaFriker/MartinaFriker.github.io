@@ -87,7 +87,11 @@
                             </ul>
                         </div>
                         <p> <strong>Beschreibung:</strong> {{tool.description}} </p>
-                        <p> <strong>Vorteile:</strong> {{tool.advantages}} </p>
+                        
+                        {% if tool.advantages != null %}
+                            <p> <strong>Vorteile:</strong> {{tool.advantages}} </p>
+                        {% endif %}
+
                         <div> <strong>Programmiersprachen:</strong>
                             <ul>
                                 {% for p in tool.languages %}
@@ -96,17 +100,19 @@
                             </ul>
                         </div>
                         <p> <strong>Link:</strong> <a href="{{tool.link.url}}" target="_blank" rel="noopener"> {{tool.link.desc}} </a> </p>
-                        <div> <strong>Materialien:</strong>
-                            <ul>
-                                {% for m in tool.materials%}
-                                <li> <a href="{{m.url}}" target="_blank" rel="noopener"> {{m.desc}} </a> </li>
-                        {% endfor %}
-                    </ul>
+                        {% if tool.materials != null %}
+                            <div> <strong>Materialien:</strong>
+                                <ul>
+                                    {% for m in tool.materials%}
+                                    <li> <a href="{{m.url}}" target="_blank" rel="noopener"> {{m.desc}} </a> </li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        {% endif %}
                     </div>
                 </div>
+                {% endfor %}
             </div>
-            {% endfor %}
-        </div>
         </div>
     </body>
 
