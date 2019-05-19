@@ -1,0 +1,14 @@
+
+category: online
+name: Programmieren mit der Maus
+description: Programmieren mit Scratch-Blöcken, mit einfachen Schritt-für-Schritt-Anleitungen
+advantages: übersichtlich, gut angeleitet
+languages:
+  - visuell/Blöcke
+ages:
+  - 2. Zyklus
+link:
+  url: https://programmieren.wdrmaus.de/
+  desc: programmieren.wdrmaus.de
+materials:
+image_name: programmieren_mit_der_maus.png
