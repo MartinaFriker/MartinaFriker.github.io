@@ -22,6 +22,8 @@ materials:
     desc: Material für den 3. Zyklus von der PH Luzern
   - url: https://www.sonnentaler.net/aktivitaeten/informatik/programmieren/123-kodiert/
     desc: 1, 2, 3 Kodiert (Unterrichtseinheit mit Roboter)
+  - url: https://www.schabi.ch/seite/thymio
+    desc: Material von der PH Zürich - Schule am Bildschirm
   - url: assets/materials/thymio/Thymio_einfache_Aufgaben.docx
     desc: Thymio einfache Aufgaben von M.Friker
   - url: assets/materials/thymio/Plakat_Anleitung_Thymio_VPL.pdf

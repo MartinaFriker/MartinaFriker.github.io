@@ -12,6 +12,8 @@ link:
   url: https://scratch.mit.edu/
   desc: scratch.mit.edu
 materials:
+  - url: https://www.schabi.ch/seite/scratch
+    desc: Material von der PH Zürich - Schule am Bildschirm
   - url: https://scratch.mit.edu/tips
     desc: Tutorials/ Aktivitäts-Karten von Scratch
   - url: https://www.zebis.ch/unterrichtsmaterial/scratch-30-kennenlernen
