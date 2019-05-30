@@ -14,6 +14,10 @@ link:
   url: http://www.microbit.org/de/
   desc: www.microbit.org
 materials:
+  - url: https://microbit.eeducation.at/images/f/f2/Buch-microbit_20180729.pdf
+    desc: Microbit-Schulbuch für Sekundarstufe 1
+  - url: https://learninglab.tugraz.at/informatischegrundbildung/bbc-microbit-werkstattbeispiele/
+    desc: Unterrichtsmaterial von der technischen Universitat Graz
   - url: https://www.schularena.com/ict/informatik/make-it/micro-bit
     desc: Aufgaben von der Schularena
   - url: assets/materials/microbit/Einfache_Microbit_Projekte_M_Friker.docx
