@@ -1,7 +1,7 @@
 category: online
 name: Tigerjython online
 description: Einfache Entwicklungsumgebung zum programmieren in Python
-advantages: kompatibel mit Oxocard und Mindstorms (geplant)
+advantages: kompatibel mit Oxocard und Mindstorms
 languages:
   - Python
 ages:
