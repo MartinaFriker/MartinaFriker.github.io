@@ -1,0 +1,15 @@
+category: online
+name: EarSketch
+description: Musik programmieren, laufende Schleife in Echtzeit ändern ("Live-Coding"), integrierte Soundbibliothek 
+advantages: integriertes Tutorial (englisch)
+languages:
+  - Javascript
+  - Python
+ages:
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: http://earsketch.gatech.edu/landing/#/
+  desc: earsketch-gatech.edu
+materials:
+image_name: earsketch.png

@@ -1,0 +1,14 @@
+category: download
+name: Robo Instructus
+description: Roboter mit einfacher Programmiersprache (angelehnt an Python) steuern
+advantages: gut geführtes Lernprogramm
+languages:
+  - eigene
+ages:
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: https://www.roboinstruct.us/
+  desc: www.roboinstruct.us
+materials:
+image_name: roboinstructus.jpg
