@@ -17,4 +17,6 @@ materials:
     desc: Lektionspläne von makeymakey.com (englisch)
   - url: https://tueftelakademie.de/oer-materialien/
     desc: Unterrichtsbeispiele von tueftelakademie.de
+  - url: https://epic-stuff.de/bauanleitungen/bauanleitungen-makey-makey/
+    desc: Anleitungen von epic-stuff.de
 image_name: makey.jpg

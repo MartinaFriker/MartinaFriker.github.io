@@ -15,7 +15,7 @@ materials:
   - url: https://www.schabi.ch/seite/scratch
     desc: Material von schabi (Schule am Bildschirm)
   - url: https://scratch.mit.edu/tips
-    desc: Tutorials/ Aktivitäts-Karten von Scratch
+    desc: Tutorials/ Aktivitäts-Karten von Scratch (z.T noch auf englisch)
   - url: https://www.zebis.ch/unterrichtsmaterial/scratch-30-kennenlernen
     desc: Scratch-Einfuehrung von Urs Frischknecht
   - url: https://csfirst.withgoogle.com/c/cs-first/de/curriculum.html
@@ -28,4 +28,6 @@ materials:
     desc: "Lernbaum PH Bern (Tipp: unten anfangen ;-)"
   - url: http://scratched.gse.harvard.edu/resources/scratch-3-stunden
     desc: Scratch in 3 Stunden von Bernd Gärtner
+  - url: https://www.imedias.ch/weiterbildung/scratchkarten.cfm
+    desc: Scratchkarten auf Deutsch
 image_name: Scratch.jpg
