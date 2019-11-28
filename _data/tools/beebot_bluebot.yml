@@ -12,8 +12,8 @@ link:
 materials:
   - url: https://www.phfr.ch/sites/default/files/gesamtdossier.pdf
     desc: Dossier PH Fribourg
-  - url: https://www.phbern.ch/ideenset-robotik/unterrichtsmaterial/bee-bot-1-zyklus.html
-    desc: Materialiensammlung PH Bern
+  - url: assets/materials/beebot_bluebot/Aufgabenblaetter_Bee-Bot.docx
+    desc: Aufgabensammlung PH Bern
   - url: assets/materials/beebot_bluebot/Bluebot_einfache_Aufgaben.pdf
     desc: Bluebot einfache Aufgaben von M.Friker
   - url: assets/materials/beebot_bluebot/Bluebot_Quadrate_Stadtplan.pdf
