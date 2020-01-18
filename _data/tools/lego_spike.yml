@@ -1,0 +1,17 @@
+category: Roboter
+name: Lego Spike
+description: Lego-Roboter (Baukastensystem) mit 3 Motoren, Abstandssensor, Farb-/ Helligkeitssensor, Drucksensor (Taste), Lagesensor, Lichtmatrix (5x5)
+advantages: vielfältige Möglichkeiten in Kombination mit Legoteilen, Unterrichtsmaterial von Lego, Robotik-Wettbewerb
+languages:
+  - visuell/Blöcke
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+link:
+  url: https://education.lego.com/de-de/products/lego-education-spike-prime-set/45678
+  desc: education.lego.spike
+materials:
+  url: https://education.lego.com/de-de/lessonsfilter?Products=LEGO%c2%ae%c2%a0Education+SPIKE%e2%84%a2%c2%a0Prime-Set
+  desc: Unterrichtspläne von Lego
+
+image_name: lego_spike.png
