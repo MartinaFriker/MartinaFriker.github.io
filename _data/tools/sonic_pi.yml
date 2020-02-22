@@ -14,4 +14,6 @@ link:
 materials:
   - url: https://www.schularena.com/ict/informatik/programmieren/sonic-pi
     desc: Materialsammlung auf Schularena
+  - url: https://phbern365.sharepoint.com/:w:/s/Ideensets/Ecy-9S8XYRFPjpcLn9nt-V8BqEhBbKd4TJmULzDemO-8Ng?rtime=lD6yrta310g
+    desc: Material PH Bern (Tutorial aus Sonic Pi ergänzt mit Aufgaben)
 image_name: sonic_pi.png
