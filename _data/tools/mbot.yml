@@ -13,6 +13,6 @@ link:
   url: https://www.makeblock.com/steam-kits/mbot
   desc: Makeblock/steam-kits/mbot
 materials:
-  - url: https://www.phbern.ch/ideenset-robotik-2/ideenset-robotik-2/unterrichtsmaterial/mbot.html
+  - url: https://www.phbern.ch/dienstleistungen/unterrichtsmedien/ideenset-robotik-2/mbot
     desc: Videoanleitungen/ Unterrichtsmaterial Sammlung PH Bern
 image_name: mbot.jpg
