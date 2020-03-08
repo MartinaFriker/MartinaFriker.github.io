@@ -4,6 +4,7 @@ description: Roboterball mit Lage-/ Beschleunigungssensor, farbige Led's
 advantages:
 languages:
   - Javascript
+  - Swift
   - visuell/Blöcke
 ages:
   - 2. Zyklus

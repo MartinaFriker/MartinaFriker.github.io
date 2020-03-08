@@ -5,6 +5,7 @@ advantages: Kompatibel mit Scratch, Open Roberta und Appinventor
 languages:
   - C++
   - Python
+  - Swift
   - visuell/Blöcke
 ages:
   - 2. Zyklus

@@ -4,6 +4,7 @@ description: Lego-Roboter (Baukastensystem) mit 3 Motoren, Abstandssensor, Farb-
 advantages: vielfältige Möglichkeiten in Kombination mit Legoteilen, Unterrichtsmaterial von Lego, Robotik-Wettbewerb
 languages:
   - visuell/Blöcke
+  - Swift
   - Python
 ages:
   - 2. Zyklus
