@@ -1,0 +1,16 @@
+category: online
+name: w3schools
+description: Simulation von html, css und javascript-Code; Kurse (englisch)
+advantages: 
+languages:
+  - HTML/CSS
+  - Javascript
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic
+  desc: www.w3schools.com
+materials:
+image_name: w3schools.jpg
