@@ -1,0 +1,15 @@
+category: online
+name: Code it Studio
+description: Programmieren mit Blöcken; Kurse für Kinder ab 9 Jahren; Login möglich aber nicht zwingend; Forum; Galerie mit Projekten zum verändern 
+advantages: Einführung des Terminals; Code-Ansicht in Javascript
+languages:
+  - visuell/Blöcke
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: https://app.code-it-studio.de/
+  desc: code.org
+materials:
+image_name: code_it.png
