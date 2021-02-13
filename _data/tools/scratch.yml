@@ -14,10 +14,12 @@ link:
 materials:
   - url: https://www.schabi.ch/seite/scratch
     desc: Material von schabi (Schule am Bildschirm)
-  - url: https://scratch.mit.edu/tips
-    desc: Tutorials/ Aktivitäts-Karten von Scratch (z.T noch auf englisch)
+  - url: https://scratch.mit.edu/projects/editor/?tutorial=all
+    desc: Tutorials von Scratch
+  - url: https://resources.scratch.mit.edu/www/cards/de/scratch-cards-all.pdf
+    desc: Scratchkarten 
   - url: https://www.zebis.ch/unterrichtsmaterial/scratch-30-kennenlernen
-    desc: Scratch-Einfuehrung von Urs Frischherz
+    desc: Scratch 3.0 kennenlernen von Urs Frischherz
   - url: https://csfirst.withgoogle.com/c/cs-first/de/curriculum.html
     desc: Lernkurse mit Videos von Google CS First
   - url: http://ilearnit.ch/download/ScratchProjektideen.pdf
@@ -25,9 +27,8 @@ materials:
   - url: http://www.swisseduc.ch/informatik/programmiersprachen/scratch_werkstatt/
     desc: Scratch-Werkstatt von swisseduc
   - url: https://milehrplan.ch/scratch/
-    desc: "Lernbaum PH Bern (Tipp: unten anfangen ;-)"
+    desc: "Lernbaum PH Bern (Tipp: unten starten"
   - url: http://scratched.gse.harvard.edu/resources/scratch-3-stunden
     desc: Scratch in 3 Stunden von Bernd Gärtner
-  - url: https://www.imedias.ch/weiterbildung/scratchkarten.cfm
-    desc: Scratchkarten auf Deutsch
+
 image_name: Scratch.jpg
