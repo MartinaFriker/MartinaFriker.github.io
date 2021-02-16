@@ -15,8 +15,10 @@ materials:
     desc: Unterrichtseinheiten von ozobot.com (englisch)
   - url: http://ilearnit.ch/download/OzobotProjektideen.pdf
     desc: Projektideen PH Schwyz
-  - url: https://phzh.ch/globalassets/phzh.ch/medienbildung/dokumente/kurs-highlights_ozobot-karten.pdf
-    desc: Challenge-Karten von der PH Zürich
+  - url: https://www.zebis.ch/unterrichtsmaterial/arbeiten-mit-dem-ozobot-arbeitsheft
+    desc: Schuelerarbeitsheft und Lehrerleitfaden von Urs Frischherz
+  - url: https://www.schabi.ch/seite/phzhozobot
+    desc: Challenge-Karten PH Zürich
   - url: assets/materials/ozobot/EtikettenOzobotAvery_L4736.pdf
     desc: Ozobot Vorlage Farbcode Ettiketten (Avery L4736) von M.Friker
   - url: assets/materials/ozobot/ListeOzobotFarbcodes_mitPictos.pdf
