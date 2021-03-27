@@ -1,0 +1,13 @@
+category: Apps
+name: Nepo Missions
+description: Mit der Fraunhofer-Programmiersprache NEPO (farbige Blöcke ähnlich Scratch) den virtuellen Marsroboter „Rosa“ programmieren und dabei immer schwierigere Missionen erfüllen
+advantages: gut geführt, mit Einleitung
+languages:
+  - visuell/Blöcke
+ages:
+  - 2. Zyklus
+link:
+  url: https://apps.apple.com/ch/app/nepo-missions/id1539425110
+  desc: Nepo Missions im Appstore
+materials:
+image_name: nepo_missions.png
