@@ -16,4 +16,6 @@ materials:
     desc: Materialsammlung auf Schularena
   - url: https://phbern365.sharepoint.com/:w:/s/Ideensets/Ecy-9S8XYRFPjpcLn9nt-V8BqEhBbKd4TJmULzDemO-8Ng?rtime=lD6yrta310g
     desc: Material PH Bern (Tutorial aus Sonic Pi ergänzt mit Aufgaben)
+  - url: https://sonicpi.weebly.com/uploads/4/4/1/2/44127859/live_coding_in_der_bildung.pdf
+    desc: sonicpi.weebly.com
 image_name: sonic_pi.png
