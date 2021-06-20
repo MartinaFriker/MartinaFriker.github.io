@@ -13,8 +13,8 @@ link:
   url: https://www.oxocard.ch/
   desc: www.oxocard.ch
 materials:
-  - url: https://www.oxocard.ch/exercises.html
-    desc: Arbeitsblätter von Oxocard
+  - url: https://oxocard.ch/de/lernen/
+    desc: Unterrichtsmaterial von Oxocard
   - url: https://editor.oxocard.ch/
-    desc: Oxoscript (Editor von Oxocard)
+    desc: Oxoscript (Python-Editor von Oxocard)
 image_name: oxocard.png

@@ -26,8 +26,6 @@ materials:
     desc: Projektideen PH Schwyz
   - url: http://www.swisseduc.ch/informatik/programmiersprachen/scratch_werkstatt/
     desc: Scratch-Werkstatt von swisseduc
-  - url: https://milehrplan.ch/scratch/
-    desc: "Lernbaum PH Bern (Tipp: unten starten)"
   - url: http://scratched.gse.harvard.edu/resources/scratch-3-stunden
     desc: Scratch in 3 Stunden von Bernd Gärtner
 
