@@ -1,15 +1,17 @@
 category: online
 name: X-Logo
-description: Den Weg einer Figur (Schildkröte) so programmieren dass ihre Spur ein bestimmtes Muster ergibt
-advantages:
+description: Den Weg einer Figur (Schildkröte) programmieren
+advantages: Bluebot-Steuerung integriert, Aufgaben lösen und selber erstellen
 languages:
+  - visuell/Blöcke
   - Logo
 ages:
+  - 1. Zyklus
   - 2. Zyklus
   - 3. Zyklus
 link:
-  url: https://xlogo.tuxfamily.org/de/index-de.html
-  desc: xlogo.tuxfamily.org
+  url: https://xlogo.inf.ethz.ch/release/latest/
+  desc: xlogo.inf.ethz.ch
 materials:
   - url: http://abz.inf.ethz.ch/wp-content/uploads/unterrichtsmaterialien/primarschulen/logo_heft_de.pdf
     desc: Aufgaben vom ABZ ETH Zürich
@@ -17,4 +19,4 @@ materials:
     desc: Aufgaben für Fortgeschrittene vom ABZ EthZh
   - url: http://www.abz.inf.ethz.ch/wp-content/uploads/unterrichtsmaterialien/primarschulen/logo_projekte.pdf
     desc: Projekte für Fortgeschrittene vom ABZ EthZh
-image_name: x-logo.JPG
+image_name: x-logo.PNG
