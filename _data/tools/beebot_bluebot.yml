@@ -14,6 +14,8 @@ materials:
     desc: Dossier PH Fribourg
   - url: assets/materials/beebot_bluebot/Aufgabenblaetter_Bee-Bot.docx
     desc: Aufgabensammlung PH Bern
+  - url: https://www.minibiber.ch/images/book/Bee-Boot_Book_DE.pdf
+    desc: Bee-Bot-Book deutsche Übersetzung 
   - url: assets/materials/beebot_bluebot/Bluebot_einfache_Aufgaben.pdf
     desc: Bluebot einfache Aufgaben von M.Friker
   - url: assets/materials/beebot_bluebot/Bluebot_Quadrate_Stadtplan.pdf
