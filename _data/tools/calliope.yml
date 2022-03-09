@@ -26,6 +26,8 @@ materials:
     desc: Coden mit dem Calliope mini (Schülerheft von M. Abend, K. Gramowski, L. Pelz, B. Poloczek)
   - url: https://appcamps.de/unterrichtsmaterial/calliope-mini/
     desc: Unterrichtsmaterial von appcamps.de
+  - url: https://makerstars.org/wp-content/uploads/2021/02/challengecards_mc_alle.pdf 
+    desc: Makerstars - Challengecards PH Turgau
   - url: https://tueftelakademie.de/oer-materialien/
     desc: Unterrichtsmaterial von der Tüftelakademie
 image_name: calliope.jpg
