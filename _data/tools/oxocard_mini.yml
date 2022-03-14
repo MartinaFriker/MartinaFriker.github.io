@@ -1,0 +1,16 @@
+category: Platinen
+name: Oxocard Mini
+description: Schweizer Einplatinen-Computer mit  
+advantages: Genialer Editor mit Tutorial, Anleitungen, Einführungen,...
+languages:
+  - Python
+ages:
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: https://www.oxocard.ch/
+  desc: www.oxocard.ch
+materials:
+  - url: 
+    desc: 
+image_name: oxocard_mini.jpeg
