@@ -28,6 +28,6 @@ materials:
     desc: Unterrichtsmaterial von appcamps.de
   - url: https://makerstars.org/wp-content/uploads/2021/02/challengecards_mc_alle.pdf 
     desc: Makerstars - Challengecards PH Thurgau
-  - url: https://tueftelakademie.de/oer-materialien/
-    desc: Unterrichtsmaterial von der Tüftelakademie
+  - url: https://tueftelakademie.de/tueftelideen/
+    desc: Unterrichtsmaterial von der Tüftelakademie (-> Werkzeuge -> Calliope Mini)
 image_name: calliope.jpg

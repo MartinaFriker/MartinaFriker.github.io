@@ -13,8 +13,8 @@ link:
   url: https://www.oxocard.ch/
   desc: www.oxocard.ch
 materials:
-  - url: https://oxocard.ch/de/lernen/
-    desc: Unterrichtsmaterial von Oxocard
+  - url: https://blockly.oxocard.ch/#worksheet 
+    desc: Unterrichtsmaterial von Oxocard (rechte Spalte)
   - url: https://editor.oxocard.ch/
     desc: Oxoscript (Python-Editor von Oxocard)
 image_name: oxocard.png
