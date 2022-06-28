@@ -12,7 +12,9 @@ link:
   url: https://www.agentcubesonline.com/
   desc: www.agentcubesonline.com
 materials:
-  - url: https://web.fhnw.ch/plattformen/scalablegamedesign/mediawiki/index.php/Lehr-_und_Lernmaterial
-    desc: Unterrichtsmaterial FHNW
+  - url: https://docs.google.com/presentation/d/e/2PACX-1vQ1LHJdXo4Nv88vNAJv3Xu88X2-8RrJ2z8zoogceeFfv7BkiLrYiMbf-aInN6fpvU_wyQCW-hK46yZU/pub?start=false&loop=false&delayms=60000&slide=id.gbcadc1af56_0_130
+    desc: Nadine Stüber
+  - url: https://docs.google.com/presentation/d/e/2PACX-1vQ1LHJdXo4Nv88vNAJv3Xu88X2-8RrJ2z8zoogceeFfv7BkiLrYiMbf-aInN6fpvU_wyQCW-hK46yZU/pub?start=false&loop=false&delayms=60000&slide=id.gbcadc1af56_0_130
+    desc: Anleitungsfilme von Nadine Stüber
 
 image_name: agent_cubes.jpeg
