@@ -1,0 +1,21 @@
+category: Online
+name: Code your live Turtlecoder
+description: 
+advantages: Inklusiv
+languages:
+  - Logo
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+link:
+  url: https://www.code-your-life.org/turtlecoder/
+  desc: code your live turtlecoder
+materials:
+  - url: https://player.edudesk.de/Book/cyl_das-turtlebuch
+    desc: Das Turtle Buch
+  - url: https://www.code-your-life.org/Praxis/Logo_Turtle/mediabase/pdf/3111.pdf
+    desc: Handbuch 
+  - url:  assets/materials/codeyourlive/Das-Turtlebuch_Aufgabenkarten_EduDesk.pdf
+    desc: Aufgabenkarten
+  
+image_name: codeyourlive.jpeg
