@@ -1,0 +1,21 @@
+category: Apps
+name: Pocket Code
+description: Open-Source Programmierumgebung für Smartphones und Tablets in der visuellen Programmiersprache Catrobat; Austauschplattform (wie bei Scratch) 
+advantages: Smartphone-/ Tabletsensoren wie Touchscreen/ Girosensor/... sind implementiert
+languages:
+  - visuell/Blöcke
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+link:
+  url: https://apps.apple.com/ch/app/pocket-code/id1117935892
+  desc: Pocket Code im Appstore
+materials:
+  - url: https://pocketcode.org/hourOfCode
+    desc: Tutorial von Pocket Code
+  - url: https://pocketcode.org/tutorial
+    desc: Tipps von Pocket Code
+  - url: https://tc.tugraz.at/main/course/view.php?id=1415
+    desc: Umfangreiches Lernprogramm der Technischen Universität Graz
+
+image_name: pocket_code.JPG
