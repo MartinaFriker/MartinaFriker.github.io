@@ -14,6 +14,6 @@ link:
   url: https://www.makeblock.com/steam-kits/mbot
   desc: Makeblock/steam-kits/mbot
 materials:
-  - url: assets/materials/mbot_und_mblock_ph_st_gallen.pdf
+  - url: assets/materials/mbot/mbot_und_mblock_ph_st_gallen.pdf
     desc: 8 Tasks (PH St Gallen)
 image_name: mbot.jpg
