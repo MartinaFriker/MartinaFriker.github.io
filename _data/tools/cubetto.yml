@@ -1,0 +1,19 @@
+category: Roboter
+name: Cubetto
+description: Roboter aus Holz ab 4J; Steuerung mit Holzpfeile-Teile auf elektronischem Brett; 4 Richtungspfeile, Funktionspfeil, Verneinung und Zufall
+advantages: für Kindergarten geeignet
+languages:
+  - keine
+ages:
+  - 1. Zyklus
+link:
+  url: https://www.primotoys.com/
+  desc: Cubetto Primotoys
+materials:
+  - url: assets/materials/cubetto/teacherguide_cubetto.pdf
+    desc: Teacherguide von Cubetto
+  - url: https://medienkindergarten.wien/medienpaedagogik/roboter-coding/cubetto
+    desc: Praxistipp Medienkindergarten Wien
+
+image_name: cubetto.jpeg
+teacherguide_cubetto.pdf
