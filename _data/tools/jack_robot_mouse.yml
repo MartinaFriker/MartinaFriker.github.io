@@ -7,9 +7,8 @@ languages:
 ages:
   - 1. Zyklus
 link:
-  url: https://www.learningresources.com/product/learning+essentials--8482-+programmable+robot+mouse.do
+  url: https://www.learningresources.com/item-stem-robot-mouse
   desc: Learning Ressources
 materials:
-  - url: https://www.learningresources.com/product/learning+essentials--8482-+stem+robot+mouse+coding+activity+set.do
-    desc: Zubehör bei Learning Ressources
+
 image_name: jack_robot_mouse.jpg

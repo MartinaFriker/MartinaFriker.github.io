@@ -12,6 +12,6 @@ link:
   url: https://processing.org/
   desc: processing.org
 materials:
-  - url: https://www.zebis.ch/unterrichtsmaterial/programmier-projekt
+  - url: https://www.zebis.ch/unterrichtsmaterial/programmier-projekt-processing
     desc: Unterrichtsbeispiel bei Zebis von Christian Wyrsch
 image_name: processing.png
