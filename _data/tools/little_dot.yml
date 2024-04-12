@@ -1,0 +1,14 @@
+category: online
+name: Little Dot Adventure
+description: Code (in eigener Programmiersprache angelehnt an Javascript) lesen und ausführen; logisches Denken (Karte mit Code in richtiger Reihenfolge auswählen) 
+advantages: "Learning bei Executing"
+languages:
+  - eigene
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+link:
+  url: https://little-dot.toxicode.fr/
+  desc: www.little-dot.toxicode.fr
+materials:
+image_name: little_dot.jpeg

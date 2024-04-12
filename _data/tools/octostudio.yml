@@ -11,7 +11,7 @@ link:
   url: https://apps.apple.com/ch/app/octostudio/id6461573316
   desc: OctoStudio im Appstore
 materials:
-  url: https://www.youtube.com/channel/UCIRPzHWztehSY09P6hdeA4w
-  desc: Anleitungsvideos (englisch) auf Youtube
+  - url: https://www.youtube.com/channel/UCIRPzHWztehSY09P6hdeA4w
+    desc: Anleitungsvideos (englisch) auf Youtube
 
 image_name: octostudio.png

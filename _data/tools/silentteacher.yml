@@ -1,0 +1,14 @@
+category: online
+name: Silent Teacher
+description: Code lesen (eigene Programmiersprache, angelehnt an Python) und Ausgabe/ Resultat bestimmen (Multiple Choice); 
+advantages: Aufgaben passen sich den Fähigkeiten der Nutzenden an
+languages:
+  - eigene
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+link:
+  url: https://silentteacher.toxicode.fr/
+  desc: www.silentteacher.toxicode.fr
+materials:
+image_name: silentteacher.jpeg

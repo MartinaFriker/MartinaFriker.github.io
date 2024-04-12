@@ -1,0 +1,14 @@
+category: online
+name: Compute It
+description: Code (eigene Programmiersprache, angelehnt an Python) lesen und ausführen; Programmierkonzepte wie Loops/ Funktionen
+advantages: selbsterklärend, fesselnd, "learning by executing"
+languages:
+  - eigene
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+link:
+  url: https://compute-it.toxicode.fr/
+  desc: www.compute-it.toxicode.fr
+materials:
+image_name: compute_it.png
