@@ -1,0 +1,15 @@
+category: Platinen
+name: Oxocard Science
+description: Schweizer Mini-Computer mit Farbscreen und vielen Sensoren (Temperatur, Feuchtigkeit, Druck, Licht, Luftqualität, Beschleunigung,...).
+advantages: Genialer Editor mit Tutorial, Anleitungen, Einführungen,...
+languages:
+  - Python
+ages:
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: https://oxocard.ch/science/
+  desc: oxocard.ch/science/
+materials:
+
+image_name: 
