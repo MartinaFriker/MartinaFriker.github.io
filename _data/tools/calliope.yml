@@ -20,8 +20,10 @@ materials:
     desc: Unterrichtsmaterial-Sammlung von Calliope
   - url: https://calliope.cc/projekte
     desc: Beispiele von Calliope
-  - url: https://storycards.cc/kartensets/
-    desc: Calliope-Cards von der PH Zürich und creative coding
+  - url: assets/materials/calliope/calliope_skill_cards.pdf
+    desc: Calliope-Skill-Cards von der PH Zürich und creative coding
+  - url: assets/materials/calliope/calliope_challenge_cards.pdf
+    desc: Calliope-Challenge-Cards von der PH Zürich 
   - url: https://www.moodletreff.de/pluginfile.php/21576/mod_resource/content/1/Calliope-Schu%CC%88lerheft-Cornelsen.pdf
     desc: Coden mit dem Calliope mini (Schülerheft von M. Abend, K. Gramowski, L. Pelz, B. Poloczek)
   - url: https://appcamps.de/unterrichtsmaterial/calliope-mini/

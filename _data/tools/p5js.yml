@@ -12,7 +12,7 @@ link:
   url: https://p5js.org/
   desc: p5js.org
 materials:
-  -url: https://thecodingtrain.com/tracks/code-programming-with-p5-js
-  desc: The Coding Train
+  - url: https://thecodingtrain.com/tracks/code-programming-with-p5-js
+    desc: The Coding Train
 
 image_name: P5js.png
