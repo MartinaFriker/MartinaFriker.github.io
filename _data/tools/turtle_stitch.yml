@@ -1,0 +1,18 @@
+category: online
+name: Turtle Stitch
+description: Stickmuster entwerfen für Stickmaschine mit Programmierblöcken
+advantages: Einzigartige Kombination von Programmieren mit textilem Gestalten
+languages:
+  - visuell/Blöcke
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+link: 
+  url: https://make.turtlestitch.org/
+  desc: turtlestitch.org
+materials:
+  - url: assets/materials/turtlestitch/TurtleStitch-Karten-Anfänger_alle_de_klein.pdf
+    desc: TurtleStitch Karten Anfänger
+  - url: assets/materials/turtlestitch/TurtleStitch Arbeitsbuch - Wir lernen programmieren mit TurtleStitch (German).pdf
+    desc: TurtleStitch Arbeitsbuch PH Schwyz
+image_name: turtlestitch.png
