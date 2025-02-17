@@ -19,6 +19,10 @@ materials:
     desc: Schuelerarbeitsheft und Lehrerleitfaden von Urs Frischherz
   - url: https://www.schabi.ch/seite/phzhozobot
     desc: Challenge-Karten PH Zürich
+  - url: https://docs.google.com/presentation/d/1Bw-Wp1sj2I_Dh4zHUSnMSHjbP5YnY7V95o-7diW2-pE/present?slide=id.g6d5eb2a4a9_2_130
+    desc: Einführung und Aufgabenset Ozobot Bit (PH St. Gallen)
+  - url: https://docs.google.com/presentation/d/11GjWKDLNO0q0d446Qb6g9Mu6yEV2eh63JHGcV_bIUxo/present?slide=id.gaaa7a8feed_0_834
+    desc: Einführung und Aufgabenset Ozobot Evo (PH St. Gallen)
   - url: assets/materials/ozobot/EtikettenOzobotAvery_L4736.pdf
     desc: Ozobot Vorlage Farbcode Ettiketten (Avery L4736) von M.Friker
   - url: assets/materials/ozobot/ListeOzobotFarbcodes_mitPictos.pdf

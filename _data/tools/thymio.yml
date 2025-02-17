@@ -28,5 +28,8 @@ materials:
     desc: Thymio einfache Aufgaben von M.Friker
   - url: assets/materials/thymio/Plakat_Anleitung_Thymio_VPL.pdf
     desc: Plakat Anleitung Thymio VPL von M.Friker
-
+  - url: https://docs.google.com/presentation/d/19xTEKyaBRNplSzsrnL1NhshOehZJWQ62pQpHO6tRBx0/present?slide=id.g6e006c37c9_2_119
+    desc: Thymio Einführung und Aufgabenset (PH St. Gallen)
+  - url: https://docs.google.com/presentation/d/1LpixBjFqSFi3QCzWQDzEMm1iaSOK9CYk1oAIuX1AMF8/present?slide=id.p1
+    desc: Thymio Roboter-Olympiade auf dem Mars (PH St. Gallen)
 image_name: thymio.jpg

@@ -15,4 +15,8 @@ link:
 materials:
   - url: https://edu.sphero.com/cwists/category
     desc: Unterrichtsideen von sphero.com
+  - url: https://docs.google.com/presentation/d/1UNEKfMwtWD8qQrkJhCM-u3-kKwgv45cJC_nFIZySgBA/present?slide=id.gd47074b1f0_0_1129
+    desc: Einführung und Aufgabenset Sphero (PH St. Gallen)
+  - url: https://docs.google.com/presentation/d/1y6Z9yDw1L8b8GyT_GDb4SynwUQ6fHDzRRbs0lh_USiA/present?slide=id.p1
+    desc: Sphero Planeten im Sonnensystem (PH St. Gallen)
 image_name: sphero.jpg

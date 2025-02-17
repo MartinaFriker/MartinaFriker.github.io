@@ -1,0 +1,15 @@
+category: online
+name: Turinglab
+description: Lernplattform mit Kursen für Anfänger und Fortgeschrittene; selbständiges Lernen in individuellem Tempo; direktes Feedback; Punktesammel-System
+advantages: Lehrpersonen können Klassen erstellen, Aufgaben individuell zuteilen und Lernfortschritte verfolgen
+languages:
+  - Python
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: https://futureengineer.turinglab.de/content
+  desc: futureengineer.turinglab.de
+materials:
+image_name: turinglab.png

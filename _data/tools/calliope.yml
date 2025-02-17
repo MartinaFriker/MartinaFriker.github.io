@@ -30,6 +30,10 @@ materials:
     desc: Unterrichtsmaterial von appcamps.de
   - url: https://makerstars.org/wp-content/uploads/2021/02/challengecards_mc_alle.pdf 
     desc: Makerstars - Challengecards PH Thurgau
+  - url: https://docs.google.com/presentation/d/1iiDQY4lBfXEq8KCp1fQZUu8QL_kUAqgdpri6WWSqrNA/present?slide=id.g3088fb471df_0_8
+    desc: Calliope 2 Aufgabenset/ Einführung (PH St. Gallen)  
+  - url: https://docs.google.com/presentation/d/15cC2gBjKwWNtwmAoNPwosT0CkrVV-db76VTJTBAH_Ws/present?slide=id.g6d5eb2a4a9_2_130
+    desc: Calliope 3 Aufgabenset/ Einführung (PH St. Gallen)   
   - url: https://tueftelakademie.de/tueftelideen/
     desc: Unterrichtsmaterial von der Tüftelakademie (-> Werkzeuge -> Calliope Mini)
 image_name: calliope.jpg

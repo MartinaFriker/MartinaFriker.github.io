@@ -23,4 +23,6 @@ materials:
     desc: Aufgaben von der Schularena
   - url: assets/materials/microbit/Einfache_Microbit_Projekte_M_Friker.docx
     desc: Einfache Microbit-Projekte von M.Friker
+  - url: https://docs.google.com/presentation/d/1tX8T6TpfklhOgd14o7ZRvwG6NltIeBX8MrOjVR2eKMg/present?slide=id.gf82c825ea3_1_335
+    desc: Einführung und Aufgabenset (PH St. Gallen)
 image_name: microbit.png
