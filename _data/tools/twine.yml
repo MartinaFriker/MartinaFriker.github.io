@@ -1,0 +1,22 @@
+category: download
+name: Twine
+description: Interaktive Stories entwickeln, verknüpfen und Style festlegen mit Code; Logik (if, else), Variablen; Bilder, Audio, Video einfügen 
+advantages: Fördert kreatives Schreiben
+languages:
+  - eigene
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+link:
+  url: https://twinery.org/
+  desc: twinery.org
+materials:
+ - url: assets/materials/twine/TwineCards_Printable.pdf
+   desc: TwineCards PH Bern 
+ - url: assets/materials/twine/lektionen.pdf
+   desc: Lektionen von PH Bern
+ - url: assets/materials/twine/handout-textadventures-mit-twine-pdf-datei.pdf
+   desc: Handout von "Medienkompetent mit Games"
+ - url: assets/materials/twine/konzept-textadventures-pdf-datei.pdf
+   desc: Überblick von "Medienkompetent mit Games"
+image_name: twine.svg
